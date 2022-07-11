@@ -1,0 +1,2 @@
+erlc hello.erl -> para compilar para um .beam
+erl -noshell -s hello start -s init stop -> -s Modulo função
